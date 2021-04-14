@@ -11,6 +11,7 @@
 
 body{
     background: black;
+    color: white;
 }
 
 header .container{
@@ -39,4 +40,5 @@ nav a {
 
 nav a:hover{
     color: white;
+
 }
